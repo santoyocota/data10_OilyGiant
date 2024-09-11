@@ -1,0 +1,7 @@
+Trabajas en la compañía de extracción de petróleo OilyGiant. Tu tarea es encontrar los mejores lugares donde abrir 200 nuevos pozos de petróleo. Para completar esta tarea, es necesario realizar una serie de pasos que implican la lectura y análisis de datos, la creación de modelos predictivos y la evaluación de beneficios y riesgos.
+
+El proceso comienza con la lectura de los archivos que contienen los parámetros recogidos de pozos petrolíferos en las regiones seleccionadas, incluyendo la calidad del crudo y el volumen de reservas. Utilizando estos datos, se debe crear un modelo para predecir el volumen de reservas en nuevos pozos. Con las predicciones, se seleccionarán los pozos con los valores estimados más altos.
+
+El objetivo final es elegir la región con el beneficio total más alto para los pozos petrolíferos seleccionados. Se dispone de datos sobre muestras de crudo de tres regiones diferentes, y ya se conocen los parámetros de cada pozo petrolero de estas regiones. Mediante la creación de un modelo predictivo, se busca identificar la región con el mayor margen de beneficio. Además, se analizarán los beneficios y riesgos potenciales utilizando la técnica de bootstrapping para asegurar decisiones informadas y minimizar riesgos financieros.
+
+Este análisis permitirá a OilyGiant maximizar sus beneficios y optimizar la selección de ubicaciones para los nuevos pozos de petróleo, asegurando el uso eficiente de recursos y la maximización del retorno de inversión.
